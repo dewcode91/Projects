@@ -2,7 +2,7 @@
 
 # PHP Resume Builder
 
-This is a simple, plain PHP application that allows users to create, manage, and generate professional resumes in PDF format. It's designed to be straightforward to set up and use, providing a basic foundation for a web-based resume creation tool.
+This is a PHP application that allows users to create, manage, and generate professional resumes in PDF format. It's designed to be straightforward to set up and use, providing a basic foundation for a web-based resume creation tool.
 
 -----
 
